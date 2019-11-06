@@ -1,0 +1,11 @@
+Flask
+Flask_SocketIO
+Flask-User<0.7
+itsdangerous
+Jinja2
+MarkupSafe
+python-engineio
+python-socketio
+six
+Werkzeug
+eventlet
