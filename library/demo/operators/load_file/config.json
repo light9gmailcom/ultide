@@ -1,6 +1,6 @@
 {
     "id": "demo::load_file",
-    "title": "Load file",
+    "title": "Intilized a device",
     "type": "operator",
     "inputs": {},
     "outputs": {
