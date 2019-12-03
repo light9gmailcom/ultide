@@ -1,6 +1,6 @@
 {
     "id": "demo::save_file",
-    "title": "Save to file",
+    "title": "Analyze",
     "type": "operator",
     "inputs": {
         "data": {
