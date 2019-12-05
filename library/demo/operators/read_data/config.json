@@ -1,5 +1,5 @@
 {
-    "id": "demo::all_fields",
+    "id": "demo::read_data",
     "title": "Read Data",
     "type": "operator",
     "inputs": {
